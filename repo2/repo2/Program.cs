@@ -10,6 +10,7 @@ namespace repo2
     {
         static void Main(string[] args)
         {
+            //commitfromvsbyburak
              //gulecburakcommited
             //ww commit
             // The code provided will print ‘Hello World’ to the console.
